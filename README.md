@@ -1,17 +1,28 @@
 ## Oii! Eu sou o Thiago Barreto
 
 ### Some Languages
-<div><br>
+<div>
       <img align="center" alt="Thiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <img align="center" alt="Thiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    </div><br>
+    </div>
   
+  ##
+
+### Pré-processadores
+
+<div>
+<img align="center" alt="Thiago-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+</div>
+
 ##
-  ### ⚡ Studying
+### ⚡ Studying
 
   <div>
-  <img align="center" alt="Thiago-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" alt="Thiago-TailwindCSS" height="30" width="30" src="https://pbs.twimg.com/profile_images/1278691829135876097/I4HKOLJw.png">
+  <img align="center" alt="Thiago-TailwindCSS" height="30" width="30" src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png">
+  <img align="center" alt="Thiago-TailwindCSS" height="40" width="40" src="https://butch-carabuena.com/img/less.png">
+
   </div>
 
   ##
