@@ -1,34 +1,33 @@
-<h1>Oii! Eu sou o Thiago Barreto</h1>
+<h1>Hi! I'm Thiago Barreto</h1>
 
-<h3>Some Languages</h3>
-<div>
-      <img align="center" alt="Thiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img align="center" alt="Thiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    </div>
-  
-  ##
+<h3>Here are some languages ​​I'm studying for college and courses.</h3>
 
-### Pré-processadores
-
-<div>
-<img align="center" alt="Thiago-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+<div class="languages">
+<img src="styles/svgs/1216733.svg" alt="imagem do HTML5" />
+<img src="styles/svgs/file_type_css_icon_130661%201.svg" alt="imagem do CSS3" />
+<img src="styles/svgs/1crcyaithv7aiqh1z93v99q.svg" alt="imagem do JavaScrip" />
+<img src="styles/svgs/pngwing.svg" alt="imagem do Java" />
+<img src="styles/svgs/Vector-1.svg" alt="imagem do C++" />
 </div>
 
-##
-### ⚡ Studying
+###
 
-  <div>
-  <img align="center" alt="Thiago-TailwindCSS" height="30" width="30" src="https://pbs.twimg.com/profile_images/1278691829135876097/I4HKOLJw.png">
-  <img align="center" alt="Thiago-TailwindCSS" height="30" width="30" src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png">
-  <img align="center" alt="Thiago-TailwindCSS" height="40" width="40" src="https://butch-carabuena.com/img/less.png">
+<p>I'm Brazilian, I study at UNIP - Manaus, I'm studying the 3rd period of Computer Science, and I'm passionate about Front-End.</p>
+<p></p>
 
-  </div>
+<h3>Other skills in the area of ​​programming.</h3>
 
-  ##
-  
-  <div>
-  <a href = "mailto: tbarreto347@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thiago-barreto-rodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/dev_thiago.rx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<div class="otherSkills">
+<img src="styles/svgs/67109815.svg" alt="">
+<img src="styles/svgs/Vector.svg" alt="">
 </div>
+
+<h3>Stdyng</h3>
+
+<div class="otherSkills">
+
+<img src="styles/svgs/Bootstrap_logo.svg" alt="">
+<img src="styles/svgs/less_logo.svg" alt="">
+</div>
+
+<link rel="stylesheet" href="styles/css/perfil.css" />

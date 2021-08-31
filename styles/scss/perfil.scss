@@ -4,48 +4,14 @@
     width: 20rem;
     display: flex;
     align-items: center;
-    justify-content: space-between;
-
-    .html__modify {
-        color: #e54c21;
-        font-size: 2.5rem;
-    }
-    .css__modify {
-        color: #0c73b7;
-        font-size: 2.5rem;
-    }
-    .js__modify {
-        color: #f1bf25;
-        font-size: 2.5rem;
-    }
-    .java__modify {
-        color: #000;
-        font-size: 2.5rem;
-    }
+    justify-content: space-around;
 }
 
 p {
-    font-size: 1.22rem;
+    font-size: 1.42rem;
 }
 
 .otherSkills {
-    width: 15rem;
     display: flex;
-    justify-content: space-between;
     align-items: center;
-
-    .sass__modify {
-        font-size: 2.5rem;
-        color: pink;
-    }
-
-    .bootstrap__modify {
-        font-size: 2.5rem;
-        color: blueviolet;
-    }
-
-    img {
-        width: 2.5rem;
-    }
-
 }
