@@ -1,4 +1,4 @@
-<h1 class="title" align="center">Hi! I'm <span>Thiago Barreto</span></h1>
+<h1 class="title">Hi! I'm <span>Thiago Barreto</span></h1>
 
 <h3>Here are some languages ​​I'm studying for college and courses.</h3>
 
