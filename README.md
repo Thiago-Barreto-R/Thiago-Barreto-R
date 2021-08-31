@@ -1,34 +1,28 @@
-## Oii! Eu sou o Thiago Barreto
+<h1>Hello! my name is Thiago Barreto</h1>
 
-### Some Languages
-<div>
-      <img align="center" alt="Thiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img align="center" alt="Thiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    </div>
-  
-  ##
+<h3>Here I'm going to show you some of the languages ​​I'm studying in college and courses.</h3>
 
-### Pré-processadores
-
-<div>
-<img align="center" alt="Thiago-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+<div class="languages">
+<i class="fab fa-html5 html__modify"></i>
+<i class="fab fa-css3-alt css__modify"></i>
+<i class="fab fa-js js__modify"></i>
+<i class="fab fa-java java__modify"></i>
 </div>
 
-##
-### ⚡ Studying
+###
 
-  <div>
-  <img align="center" alt="Thiago-TailwindCSS" height="30" width="30" src="https://pbs.twimg.com/profile_images/1278691829135876097/I4HKOLJw.png">
-  <img align="center" alt="Thiago-TailwindCSS" height="30" width="30" src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png">
-  <img align="center" alt="Thiago-TailwindCSS" height="40" width="40" src="https://butch-carabuena.com/img/less.png">
+<p class="text--mr">I'm Brazilian, I study at UNIP - Manaus, I'm studying the 3rd period of Computer Science, and I'm passionate about Front-End.</p>
 
-  </div>
+<p class="text">For now I am unemployed, but I intend to work as a freelancer as a Web Design</p>
 
-  ##
-  
-  <div>
-  <a href = "mailto: tbarreto347@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thiago-barreto-rodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/dev_thiago.rx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<h3>And here are some other skills.</h3>
+
+<div class="otherSkills">
+<i class="fab fa-sass sass__modify"></i>
+<i class="fab fa-bootstrap bootstrap__modify"></i>
+<img src="styles/svgs/tailwind.svg"></img>
 </div>
+
+<link rel="stylesheet" href="styles/css/perfil.css">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
