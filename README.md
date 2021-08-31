@@ -1,4 +1,4 @@
-<h1>Hi! I'm Thiago Barreto</h1>
+<h1 class="title">Hi! I'm <span>Thiago Barreto</span></h1>
 
 <h3>Here are some languages ​​I'm studying for college and courses.</h3>
 
@@ -12,8 +12,7 @@
 
 ###
 
-<p>I'm Brazilian, I study at UNIP - Manaus, I'm studying the 3rd period of Computer Science, and I'm passionate about Front-End.</p>
-<p></p>
+<p class="text">I'm Brazilian, I study at UNIP - Manaus, I'm studying the 3rd period of Computer Science, and I'm passionate about Front-End.</p>
 
 <h3>Other skills in the area of ​​programming.</h3>
 
@@ -25,7 +24,6 @@
 <h3>Stdyng</h3>
 
 <div class="otherSkills">
-
 <img src="styles/svgs/Bootstrap_logo.svg" alt="">
 <img src="styles/svgs/less_logo.svg" alt="">
 </div>

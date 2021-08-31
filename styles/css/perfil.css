@@ -1,46 +1,26 @@
+.title {
+  text-align: center;
+}
+.title span {
+  font-style: italic;
+}
+
 .languages {
   width: 20rem;
   display: flex;
   align-items: center;
-  justify-content: space-between;
-}
-.languages .html__modify {
-  color: #e54c21;
-  font-size: 2.5rem;
-}
-.languages .css__modify {
-  color: #0c73b7;
-  font-size: 2.5rem;
-}
-.languages .js__modify {
-  color: #f1bf25;
-  font-size: 2.5rem;
-}
-.languages .java__modify {
-  color: #000;
-  font-size: 2.5rem;
+  justify-content: space-around;
 }
 
-p {
+.text {
   font-size: 1.22rem;
 }
 
 .otherSkills {
-  width: 15rem;
+  width: 10rem;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
-}
-.otherSkills .sass__modify {
-  font-size: 2.5rem;
-  color: pink;
-}
-.otherSkills .bootstrap__modify {
-  font-size: 2.5rem;
-  color: blueviolet;
-}
-.otherSkills img {
-  width: 2.5rem;
 }
 
 /*# sourceMappingURL=perfil.css.map */

@@ -1,4 +1,10 @@
+.title {
+    text-align: center;
 
+    span {
+        font-style: italic;
+    }
+}
 
 .languages {
     width: 20rem;
@@ -7,11 +13,13 @@
     justify-content: space-around;
 }
 
-p {
-    font-size: 1.42rem;
+.text {
+    font-size: 1.22rem;
 }
 
 .otherSkills {
+    width: 10rem;
     display: flex;
+    justify-content: space-around;
     align-items: center;
 }
