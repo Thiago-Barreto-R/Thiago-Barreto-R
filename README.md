@@ -21,7 +21,7 @@
 <img src="styles/svgs/Vector.svg" alt="">
 </div>
 
-<h3>Stdyng</h3>
+<h3>Studying</h3>
 
 <div>
 <img src="styles/svgs/Bootstrap_logo.svg" alt="">
