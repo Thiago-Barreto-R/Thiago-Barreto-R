@@ -1,6 +1,6 @@
-<h1 align="center" style="color: blueviolet">Hi! I'm Thiago Barreto ✌️</h1>
+<h1 align="center">Hi! I'm Thiago Barreto ✌️</h1>
 
-<h3>Here are some languages ​​I'm studying in college.</h3>
+### Here are some languages ​​I'm studying in college.
 
 <div align=center>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
