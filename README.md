@@ -1,6 +1,6 @@
-<h1 align="center">Olá! Eu sou o <span>Thiago Barreto ✌️</span></h1>
+<h1 align="center" style="color: blueviolet">Hi! I'm Thiago Barreto ✌️</h1>
 
-<h3>Here are some languages ​​I'm studying for college and courses.</h3>
+<h3>Here are some languages ​​I'm studying in college.</h3>
 
 <div align=center>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -13,7 +13,7 @@
 
 <p>I'm Brazilian, I study at UNIP - Manaus, I'm studying the 3rd period of Computer Science, and I'm passionate about Front-End.</p>
 
-### Studying
+### Studying Courses
 
 <div align=center>
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
