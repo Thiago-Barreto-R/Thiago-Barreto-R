@@ -17,7 +17,8 @@
 ![JavaScript](https://raw.githubusercontent.com/gist/Thiago-Barreto-R/c383102e7e2af2e239e403b0a8a6e2c8/raw/56d90337e607001be42485b8c6e43c645074b1d8/javascript.svg)
 ![Sass](https://raw.githubusercontent.com/gist/Thiago-Barreto-R/b02b2fbac877177e50ab1391e884d65c/raw/5e7d133f1f442db3bfcab8a3d45fa83ddef2c0c8/sass.svg)
 ![Tailwind](https://raw.githubusercontent.com/gist/Thiago-Barreto-R/671add4245ede8e8836f903e459d9c19/raw/b0ce4a06affa1b110546e23087cdf8ce68cd650a/tailwind.svg)
-![Bootstrap](svg/bootstrap_button_icon_151958.svg)
+![Bootstrap](https://raw.githubusercontent.com/gist/Thiago-Barreto-R/495c256e8c99ad0e4e614d4c4fbc184c/raw/67a4b1498c08bef6fc60f7bb07d51d947a8992b4/bootstrap.svg)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Barreto-R&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
