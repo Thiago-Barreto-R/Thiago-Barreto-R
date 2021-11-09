@@ -18,6 +18,7 @@
 ![Sass](svg/Tailwind%20CSS.png)&nbsp;
 ![Bootstrap](svg/Sass.png)&nbsp;
 ![Bootstrap](svg/Bootstrap.png)&nbsp;
+<img src="svg/foto.svg">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Barreto-R&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
