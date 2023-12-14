@@ -1,18 +1,52 @@
-<h1 align="center">Olá eu sou o Thiago Barreto ✌️</h1>
+<h1 align="center" >Olá, eu sou Thiago Barreto Rodrigues</h1>
 
-### Bio
+<p align="center">👨‍💻 Desenvolvedor FullStack | 🎓 Formando em Ciência da Computação | 🏢 Auxiliar de Engenharia de Produção</p>
 
-<p>Eu sou Desenvolvedor Front-end Brasileiro, no meu tempo livre eu procuro por novos layouts com um bom design, para poder criar novos projetos, também assisto animes e jogo. Atualmento estou desmpregado, mas estou cursando Ciência da Computação na UNIP - Manaus, estou me esforçando todo dia para fazer novos projetos incríveis, por enquanto só trabalho com a parte de Web tanto para Dedsktop como mobile, mas pretendo avançar e ser um Desenvolvedor Mobile.</p>
+### Sobre mim
+Tenho 22 anos e sou apaixonado por programação. Meu caminho na área começou como aprendiz, onde desenvolvi sistemas e adquiri experiência valiosa. Atualmente, atuo como Auxiliar de Engenharia de Produção, onde desenvolvo sistemas web e desktops. Tenho maior experiência em Front-end, mas estou sempre buscando aprender mais e expandir minhas habilidades.
 
-### Tecnologias que eu mais tenho experiência
+### Minha jornada
 
-<img src="https://raw.githubusercontent.com/gist/Thiago-Barreto-R/e65ee8bc249671bcb05ba5146fca2e38/raw/cd991e2bc910fa8859e947666aa7240d248ce87c/html.svg" height="45px" alt="imagem com a logo do html5 e escrito também"> <img src="https://raw.githubusercontent.com/gist/Thiago-Barreto-R/d2a8585c8567f48f413e0047d5ee7513/raw/673758e0d70871f604f97b8b3793125cda1be608/css3.svg" height="45px" alt="imagem com a logo do css3 e escrito também"> <img src="https://raw.githubusercontent.com/gist/Thiago-Barreto-R/d708bf45b35b8921c0dc0a40f8a07a23/raw/d990cdfd12d77587e321cb5af9044bcf2e949a30/javascript.svg" height="45px" alt="imagem com a logo do javascript e escrito também"> <img src="https://raw.githubusercontent.com/gist/Thiago-Barreto-R/1328100cc14761c67b0962a6cd9f0ef6/raw/5c79f5bc06fc32be12b55c29ac774ffd630cc0c6/sass.svg" height="45px" alt="imagem com a logo do sass e escrito também"> <img src="https://raw.githubusercontent.com/gist/Thiago-Barreto-R/f288191268510ef677c1000ac11f73b6/raw/4bcda1a59e29c9d9b49c729db58ee702827120a9/git.svg" height="45px" alt="imagem com a logo do git e escrito também"> <img src="https://raw.githubusercontent.com/gist/Thiago-Barreto-R/b94285fd54fb469ff3f2f26858c1a7d1/raw/0070316c35bcd614487a86fe89182291a3fcf9ae/markdown.svg" height="45px" alt="imagem com a logo do markdown e escrito também"> <img src="https://raw.githubusercontent.com/gist/Thiago-Barreto-R/1da82bc269679fc98e93059af9e7cd93/raw/43310948b8a969bd0e9fb02ec45f1c28e4073d62/vscode.svg" height="45px" alt="imagem com a logo do vscode e escrito também">
+<p>🖥️ 1 ano e 4 meses como aprendiz desenvolvendo sistemas e soluções.</p>
+<p>🌐 Trabalho atualmente como Auxiliar de Engenharia de Produção, focado em sistemas web e desktops.</p>
+<p>📚 Em processo de formação em Ciência da Computação, sempre buscando conhecimento e crescimento na área.</p>
+
+## Principais experiências
+
+[![skill](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![skill](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![skill](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
+[![skill](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
+[![skill](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
+[![skill](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+[![skill](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=61DAFB)]()
+[![skill](https://img.shields.io/badge/Shadcnui-000?style=for-the-badge&logo=shadcnui&logoColor=61DAFB)]()
+[![skill](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]()
+[![skill](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+[![skill](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)]()
+[![skill](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)]()
+[![skill](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![skill](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=expressjsh&logoColor=white)]()
 
 
+### Conhecimento em Desenvolvimento
 
-### Tecnologias em que eu menos tenho experiência
+[![skill](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
+[![skill](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
+[![skill](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
+[![skill](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
+[![skill](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
+[![skill](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)]()
+[![skill](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
+[![skill](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![skill](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)]()
 
-<img src="https://raw.githubusercontent.com/gist/Thiago-Barreto-R/0d1ad4fc1f392c2c66c14eb75bf6cd46/raw/15567df542903d0281ff02ee59f28be32699e273/java.svg" height="45px" alt="imagem com a logo do java e escrito também"/> <img src="https://raw.githubusercontent.com/gist/Thiago-Barreto-R/9638dcfc4a4795f47c63e595872dcc88/raw/85242c6697e163b7bb35dca2dc41acac2bce2339/python.svg" height="45px" alt="imagem com a logo do python e escrito também"/> <img src="https://raw.githubusercontent.com/gist/Thiago-Barreto-R/1eb991c6cc4b014c21f801ce5607252a/raw/1f41a40817651cdd630ad2304501a619d2301229/c%23.svg" height="45px" alt="imagem com a logo do c# e escrito também"/> <img src="https://raw.githubusercontent.com/gist/Thiago-Barreto-R/6f0b5c6d348356f56162a91861cd5600/raw/8afa7168f767ed35bd798c500d53a558b4234b64/typescript.svg" height="45px" alt="imagem com a logo do typescript e escrito também"/> <img src="https://raw.githubusercontent.com/gist/Thiago-Barreto-R/5e88ca542d0de66b2b8bf263567db368/raw/dc0e182af096b8cb9a92d010f87a4fef2f49df48/mysql.svg" height="45px" alt="imagem com a logo do mysql e escrito também"/> <img src="https://raw.githubusercontent.com/gist/Thiago-Barreto-R/cb76eac39bd8d286c24b4f294db40e02/raw/e10ccbffccaf8dda07c453cbc2646493c00ed0de/tailwind.svg" height="45px" alt="imagem com a logo do tailwind css e escrito também"/> <img src="https://raw.githubusercontent.com/gist/Thiago-Barreto-R/b2c0aef52948013bed8b79856a2aba70/raw/8479c05dec2898c9f1e17e9368c982ffa3795755/bootstrap.svg" height="45px" alt="imagem com a logo do bootstrap e escrito também"/> <img src="https://raw.githubusercontent.com/gist/Thiago-Barreto-R/b9c1da5b4a0d771eb96faadff47c2832/raw/983ffd90b5b08416526ce95cbbeda08330164e1e/cpp.svg" height="45px" alt="imagem com a logo do c++ e escrito também"/>
+## Interesses
+Além da programação, adoro videogames e sou um entusiasta de vôlei. Estou animado para explorar novas oportunidades na área e continuar aprendendo e evoluindo como desenvolvedor.
+
+[![skill](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)]()
+[![skill](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)]()
+[![skill](	https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)]()
 
 ### Minhas estatísticas
 
