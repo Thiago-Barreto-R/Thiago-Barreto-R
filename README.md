@@ -23,7 +23,7 @@ Tenho 22 anos e sou apaixonado por programação. Meu caminho na área começou 
 [![skill](https://img.shields.io/badge/Shadcnui-000?style=for-the-badge&logo=shadcnui&logoColor=61DAFB)]()
 [![skill](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]()
 [![skill](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
-[![skill](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)]()
+[![skill](https://img.shields.io/badge/Material-UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)]()
 [![skill](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)]()
 [![skill](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![skill](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=expressjsh&logoColor=white)]()
