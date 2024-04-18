@@ -8,8 +8,24 @@ Tenho 22 anos e sou apaixonado por programação. Meu caminho na área começou 
 ### Minha jornada
 
 <p>🖥️ 1 ano e 4 meses como aprendiz desenvolvendo sistemas e soluções.</p>
+
 <p>🌐 Trabalho atualmente como Auxiliar de Engenharia de Produção, focado em sistemas web e desktops.</p>
-<p>📚 Em processo de formação em Ciência da Computação, sempre buscando conhecimento e crescimento na área.</p>
+
+<p>📚 Formado em Ciência da Computação, com uma ampla bagagem da faculdade escolhi a parte de desenvolvimente de software, com ideias criativas e com um toque de design.</p>
+
+## Educação
+
+- **Bacharelado em Ciência da Computação**
+  - Universidade: UNIP - Universidade Paulista
+  - Período: 2020 - 2024
+  - Principais Cursos:
+    - Rocketseat
+    - Python do básico ao avançado
+
+- **Projetos Acadêmicos Destacados**
+  - Heros: Desenvolvimento de uma Landing Page, no primeiro semestre da faculdade dei de cara com uma parte que mais lá para frente iria me apaixonar.
+  - Transcription: Desenvolvimento de um sistema web para trancrição de vídeos para texto, usando IA Transforms.js.
+
 
 ## Principais experiências
 
