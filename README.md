@@ -3,19 +3,20 @@
 <p align="center">👨‍💻 Desenvolvedor FullStack | 🎓 Formando em Ciência da Computação | 🏢 Auxiliar de Engenharia de Produção</p>
 
 ### Sobre mim
+
 Tenho 23 anos e sou apaixonado por programação. Meu caminho na área começou como aprendiz, onde desenvolvi sistemas e adquiri experiência valiosa. Atualmente, atuo como Auxiliar de Engenharia de Produção, mas fico focado na parte de software onde desenvolvo sistemas web, desktops e algumas automações. Tenho experiência em desenvolvimento Full-Stack, mas estou sempre buscando aprender mais e expandir minhas habilidades.
 
 ### Minha jornada
 
-<p>🖥️ +2 anos como desenvolvedor.</p>
-
-<p>🌐 Trabalho atualmente como Auxiliar de Engenharia de Produção, focado em sistemas web, desktops e automações.</p>
-
-<p>📚 Formado em Ciência da Computação, com uma ampla bagagem da faculdade escolhi a parte de desenvolvimente de software, com ideias criativas e com um toque de design.</p>
+- **Freelancer**: +2 anos.
+- **Aprendiz**: 1 ano e 4 meses, desenvolvendo sistemas e soluções.
+- **Auxiliar de Engenharia de Produção**: Atualmente, com foco em software.
+- **Formação**: Bacharelado em Ciência da Computação, onde me apaixonei ainda mais pelo desenvolvimento de software.
 
 ## Educação
 
 - **Bacharelado em Ciência da Computação**
+
   - Universidade: UNIP - Universidade Paulista
   - Período: 2020 - 2024
   - Principais Cursos:
@@ -25,7 +26,6 @@ Tenho 23 anos e sou apaixonado por programação. Meu caminho na área começou 
 - **Projetos Acadêmicos Destacados**
   - Heros: Desenvolvimento de uma Landing Page, no primeiro semestre da faculdade dei de cara com uma parte que mais lá para frente iria me apaixonar.
   - Transcription - TCC: Desenvolvimento de um sistema web para trancrição de vídeos para texto, usando IA Transforms.js.
-
 
 ## Principais experiências
 
@@ -44,7 +44,6 @@ Tenho 23 anos e sou apaixonado por programação. Meu caminho na área começou 
 [![skill](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![skill](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)]()
 
-
 ### Conhecimento em Desenvolvimento
 
 [![skill](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
@@ -58,16 +57,16 @@ Tenho 23 anos e sou apaixonado por programação. Meu caminho na área começou 
 [![skill](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)]()
 
 ## Interesses
+
 Além da programação, adoro videogames e sou um entusiasta de vôlei. Estou animado para explorar novas oportunidades na área e continuar aprendendo e evoluindo como desenvolvedor.
 
 [![skill](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)]()
 [![skill](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)]()
-[![skill](	https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)]()
+[![skill](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)]()
 
 ### Minhas estatísticas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Barreto-R&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiago-Barreto-R&show_icons=true&theme=radical)
 
